@@ -1,0 +1,5 @@
+Three stages of git.
+
+1. working area
+2. stagging area
+3. commit area
