@@ -1,2 +1,0 @@
-This is JOMACS DevOps Training BootCamp.
-Taking student through training to become DevOps professional.
